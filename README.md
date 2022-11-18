@@ -1,1 +1,2 @@
 # zsh_customize
+m1のmacbookpro用のzshのカスタマイズのコード
